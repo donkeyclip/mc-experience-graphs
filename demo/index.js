@@ -60,7 +60,7 @@ chart.addIncident(
           yAxis: { type: "value", name: "GDP (T$)" },
           series: [{
             type: "bar",
-            data: [28.0, 19.5, 4.8, 4.5, 4.2],
+            data: [32.0, 19.5, 4.8, 4.5, 4.2],
             itemStyle: { color: "#e76f51" },
           }],
         },
@@ -189,14 +189,14 @@ chart.addIncident(
             {
               name: "2023",
               type: "line",
-              data: [4, 7, 12, 16, 20, 25],
+              data: [3, 5, 8, 10, 12, 15],
               lineStyle: { color: "#2a9d8f" },
               itemStyle: { color: "#2a9d8f" },
             },
             {
               name: "2024",
               type: "line",
-              data: [7, 11, 17, 22, 26, 31],
+              data: [4, 6, 9, 12, 14, 17],
               lineStyle: { color: "#e76f51" },
               itemStyle: { color: "#e76f51" },
             },
